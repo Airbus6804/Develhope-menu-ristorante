@@ -18,3 +18,11 @@ Tiramisù
 Panna Cotta
 Cheesecake
 Gelato
+
+Bevande:
+Cocacola
+Fanta
+Acqua
+Sprite
+Birra
+Vino
